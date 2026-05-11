@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,50:8B5CF6,100:C084FC&height=300&section=header&text=YEONGNAM%20&fontSize=80&fontColor=F8FAFC&animation=fadeIn" />
-
 <div align="center">
 
-<img src="YOUR_RETRO_BANNER.png" width="100%" />
+<img width="100%" src="https://raw.githubusercontent.com/YeongnamKwon/assets-/main/banner.png" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Developer;Game+Developer;Computer+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Engineering;Program+Developer" />
 
 </div>
 
