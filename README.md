@@ -10,7 +10,7 @@
 
 <h2>⚡ Most Used Languages ⚡</h2>
 
-<img src="https://skillicons.dev/icons?i=c,python" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css" />
 
 <br><br>
 
