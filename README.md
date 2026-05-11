@@ -10,4 +10,8 @@
 
 <img src="https://skillicons.dev/icons?i=c,java,python,git,github" />
 
+<br><br>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YeongnamKwon&show_icons=true&theme=tokyonight&border_radius=15"/>
+
 </div>
